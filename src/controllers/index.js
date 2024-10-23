@@ -1,0 +1,10 @@
+module.exports = require('./authController');
+module.exports = require('./userController');
+module.exports = require('./categoryController');
+module.exports = require('./productController');
+module.exports = require('./orderController');
+module.exports = require('./cartController');
+module.exports = require('./storeController');
+module.exports = require('./searchController');
+module.exports = require('./offerController');
+module.exports = require('./resetPasswordController');
